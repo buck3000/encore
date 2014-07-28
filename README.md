@@ -33,7 +33,7 @@ css workflow / truncated style-guide
 1. base styles are in main.css.scss
 2. remember: grid-settings are in corresponding _grid-settings.css.scss file
 3. use EMs instead of pixels when possible (unless dealing with text...)
-4. keep color variables, fonts and page styles in seperate pages
+4. keep color variables, fonts and page styles in separate pages
 5. prepend styles for a new page with a one line css comment (e.g. /* styles for user page */)
 6. before making a pull request set the visual-grid variable to false in your branch.
 7. before pushing to production sit with someone and remove css comments
